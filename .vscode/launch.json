@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Conversion",
+            "request": "launch",
+            "mainClass": "Conversion",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionEvaluation",
+            "request": "launch",
+            "mainClass": "ExpressionEvaluation",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "StudentDemo",
+            "request": "launch",
+            "mainClass": "StudentDemo",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "datatypes",
+            "projectName": "new project_a6eb60de"
+        }
+    ]
+}
