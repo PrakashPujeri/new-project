@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EncapsulateDemo",
+            "request": "launch",
+            "mainClass": "EncapsulateDemo",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDemo",
+            "request": "launch",
+            "mainClass": "SwitchDemo",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
             "name": "OddEven",
             "request": "launch",
             "mainClass": "OddEven",
