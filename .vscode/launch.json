@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringDemo",
+            "request": "launch",
+            "mainClass": "StringDemo",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "OneDimArray",
+            "request": "launch",
+            "mainClass": "OneDimArray",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
             "name": "EncapsulateDemo",
             "request": "launch",
             "mainClass": "EncapsulateDemo",
