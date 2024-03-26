@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "obj",
+            "request": "launch",
+            "mainClass": "javafiles.obj",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "javafiles.binarySearch",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "javafiles.linearSearch",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "j2",
+            "request": "launch",
+            "mainClass": "somting.noting.j2",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "java.LinearSearch",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "linearsearch",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
             "name": "InterfaceTest",
             "request": "launch",
             "mainClass": "InterfaceTest",
