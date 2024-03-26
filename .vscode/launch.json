@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfaceTest",
+            "request": "launch",
+            "mainClass": "InterfaceTest",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "TestAbstraction",
+            "request": "launch",
+            "mainClass": "TestAbstraction",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "TestAbstract",
+            "request": "launch",
+            "mainClass": "TestAbstract",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "SubClass",
+            "request": "launch",
+            "mainClass": "SubClass",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "subClass",
+            "request": "launch",
+            "mainClass": "subClass",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
             "name": "StringDemo",
             "request": "launch",
             "mainClass": "StringDemo",
