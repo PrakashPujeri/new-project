@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prg11",
+            "request": "launch",
+            "mainClass": "prgs.prg11",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimArray",
+            "request": "launch",
+            "mainClass": "MultiDimArray",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
+            "name": "CopyContent",
+            "request": "launch",
+            "mainClass": "CopyContent",
+            "projectName": "new project_a6eb60de"
+        },
+        {
+            "type": "java",
             "name": "obj",
             "request": "launch",
             "mainClass": "javafiles.obj",
